@@ -5,3 +5,4 @@ This repository contains all of the notes taken by [Jared Flomen](https://github
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Day_1)
+  * [Day 2](/Day_2)
