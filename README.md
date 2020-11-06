@@ -14,3 +14,4 @@ This repository contains all of the notes taken by [Jared Flomen](https://github
   * [Day 7](/Week_2/Day_7/Day7.md)
   * [Day 8](/Week_2/Day_8/Day8.md)
   * [Day 9](/Week_2/Day_9/Day9.md)
+  * [Day 10](/Week_2/Day_10/Day10.md)
